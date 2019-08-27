@@ -1,0 +1,81 @@
+[
+    
+        {
+            "title": "Welcome to Jekyll!",
+            "tags": "",
+            "url": "/welcome-to-jekyll/",
+            "date": "2019-07-27 07:40:35 -0500"
+        } 
+    ,
+    
+        {
+            "title": "",
+            "tags": "",
+            "url": "/404/",
+            "date": ""
+        } ,
+    
+        {
+            "title": "Brian Hooper",
+            "tags": "about brian hooper",
+            "url": "/about/brian-hooper",
+            "date": "2018-09-01 00:00:00 -0600"
+        } ,
+    
+        {
+            "title": "Search",
+            "tags": "search template business",
+            "url": "/search/",
+            "date": "2018-01-01 00:00:00 -0600"
+        } ,
+    
+        {
+            "title": "Blog",
+            "tags": "blog template business",
+            "url": "/blog",
+            "date": "2018-01-01 00:00:00 -0600"
+        } ,
+    
+        {
+            "title": "About",
+            "tags": "about sponsors organizers contributors",
+            "url": "/about/",
+            "date": "2019-09-01 00:00:00 -0600"
+        } ,
+    
+        {
+            "title": "Landing",
+            "tags": "landing template business",
+            "url": "/landing/",
+            "date": "2018-01-01 00:00:00 -0600"
+        } ,
+    
+        {
+            "title": "Landing",
+            "tags": "landing",
+            "url": "/",
+            "date": "2018-01-01 00:00:00 -0600"
+        } ,
+    
+        {
+            "title": "Sample Presentation",
+            "tags": "presentation",
+            "url": "/slides/sample-presentation",
+            "date": "2018-01-01 00:00:00 -0600"
+        } ,
+    
+        {
+            "title": "",
+            "tags": "",
+            "url": "/search.json",
+            "date": ""
+        } ,
+    
+        {
+            "title": "",
+            "tags": "",
+            "url": "/feed.xml",
+            "date": ""
+        } 
+    
+]
