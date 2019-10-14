@@ -4,7 +4,7 @@ NashDevOps Web Site
 
 This is the official project to support the NashDevOps.com Website
 
-NashDevOps is a group for curious individuals that are interested in collaborating with other like-minded people that have passion for the DevOps Culture. This includes Technical Practitioners & IT Business Leaders involved with Digital & IT Transformation initiatives.
+NashDevOps is a group for curious individuals that are interested in collaborating with other like-minded people that have a passion for the DevOps Culture. This includes Technical Practitioners & IT Business Leaders involved with Digital & IT Transformation initiatives.
 
 This project is open sourced and all are invited to contribute.
 
